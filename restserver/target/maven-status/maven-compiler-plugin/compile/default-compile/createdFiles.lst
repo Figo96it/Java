@@ -1,0 +1,5 @@
+pl/sda/App.class
+pl/sda/Uczen.class
+pl/sda/RestServerImpl.class
+pl/sda/RestServerWithJson.class
+pl/sda/AppJson.class
