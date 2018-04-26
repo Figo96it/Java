@@ -1,0 +1,13 @@
+pl\sda\jpatraining\jpa\Customer.class
+pl\sda\jpatraining\jpa\OrderStatus.class
+pl\sda\jpatraining\jdbc\EmployeeDto$EmployeeDtoBuilder.class
+pl\sda\jpatraining\jpa\QAdress.class
+pl\sda\jpatraining\jpa\QCustomer.class
+pl\sda\jpatraining\jpa\Customer$CustomerBuilder.class
+pl\sda\jpatraining\jpa\CustomerDto.class
+pl\sda\jpatraining\jdbc\JdbcMain.class
+pl\sda\jpatraining\jpa\JpaMain.class
+pl\sda\jpatraining\jpa\Adress.class
+pl\sda\jpatraining\jpa\Order.class
+pl\sda\jpatraining\jpa\QOrder.class
+pl\sda\jpatraining\jdbc\EmployeeDto.class
