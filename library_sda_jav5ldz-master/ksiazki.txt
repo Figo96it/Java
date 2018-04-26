@@ -1,0 +1,7 @@
+id:71,tytul:Pan Tadeusz,autor.imie:Adam,autor.nazwisko:Mickiewicz,liczba.stron:null,gatunek:null,rok.wydania:null,
+id:71,tytul:Pan Tadeusz,autor.imie:Adam,autor.nazwisko:Mickiewicz,liczba.stron:null,gatunek:null,rok.wydania:null,
+id:71,tytul:Pan Tadeusz,autor.imie:Adam,autor.nazwisko:Mickiewicz,liczba.stron:null,gatunek:null,rok.wydania:null,
+id:71,tytul:Pan Tadeusz,autor.imie:Adam,autor.nazwisko:Mickiewicz,liczba.stron:null,gatunek:null,rok.wydania:null,
+id:71,tytul:Pan Tadeusz,autor.imie:Adam,autor.nazwisko:Mickiewicz,liczba.stron:null,gatunek:null,rok.wydania:null,
+id:71,tytul:Harry,autor.imie:Damian,autor.nazwisko:Figinski,liczba.stron:null,gatunek:null,rok.wydania:null,
+id:71,tytul:Maciej,autor.imie:Maciej,autor.nazwisko:Wojnowski,liczba.stron:454,gatunek:HORROR,rok.wydania:1624,
